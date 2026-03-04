@@ -32,4 +32,4 @@ PostgreSQL
 - Window Functions (ROW_NUMBER, RANK, etc.)
 
 ## Author
-Your Name
+GITHINJI VICTOR MAINA
